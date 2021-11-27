@@ -1,2 +1,0 @@
-# MFR
-My First Repository

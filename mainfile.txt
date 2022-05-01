@@ -2,8 +2,4 @@ This is the main
 
 Working on the branch
 
-
-editing from terminal
-
 Creating confict
-
